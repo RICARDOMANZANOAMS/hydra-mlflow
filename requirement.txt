@@ -1,0 +1,5 @@
+conda create --name hydra-mlflow python=3.10.12
+conda activate hydra-mlflow
+pip install hydra-core
+pip install mlflow
+pip install chardet
